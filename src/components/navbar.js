@@ -6,6 +6,7 @@ export default function navbar() {
   return (
     <>
     <Navbar/>
+    nnjdnfndffjdjnj
     </>
   )
 }
