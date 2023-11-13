@@ -1,5 +1,5 @@
 // components/Footer.js
-"use client";
+
 import React from "react";
 
 const Footer = () => {
