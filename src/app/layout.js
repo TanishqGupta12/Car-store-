@@ -12,22 +12,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      {/* <Head>
-        <script
-          type="text/javascript"
-          src="/static/script.js"
-          async
-          defer
-        ></script>
-      </Head> */}
-
-      <Script
-        type="text/javascript"
-        id="hs-script-loader"
-        async
-        defer
-        src="https://unpkg.com/flowbite@1.4.1/dist/flowbite.js"
-      />
 
       <body className={inter.className}>{children}</body>
     </html>

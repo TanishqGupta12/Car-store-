@@ -1,0 +1,14 @@
+.main_Home{
+box-sizing: border-box;
+/* position: relative; */
+}
+
+.main_Home > .Image{
+    padding: 5vmax;
+}
+.main_Home > .main_date{
+    position: relative;
+    top: 5;
+    right: 5;
+    
+}

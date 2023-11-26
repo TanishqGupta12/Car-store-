@@ -1,5 +1,4 @@
-import { Navbar, Footer, Product } from "../components/index.js";
-
+import { Navbar, Footer, Product , Home_img  } from "../components/index.js";
 export default function Home() {
   return (
     <main>
@@ -7,7 +6,7 @@ export default function Home() {
       <Navbar />
 
       <Product />
-
+      < Home_img />
       <Footer />
     </main>
   );
